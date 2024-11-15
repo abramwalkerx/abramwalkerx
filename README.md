@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @abramwalkerx
-- 👀 I’m interested in web3xedu
-- 🌱 I’m currently learning python
-- 📫 How to reach me abrahamkyeyune@gmail.com ...
+- 👋 Hi, I’m @abramwalker
 
 <!---
 abramwalkerx/abramwalkerx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
